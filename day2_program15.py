@@ -1,0 +1,4 @@
+#Reverse() function
+x=[10,20,30,40,50,60]
+x.reverse()
+print(x)
